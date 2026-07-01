@@ -67,7 +67,7 @@ This project demonstrates how to create and deploy an Azure Storage Account usin
 
 Opened the Microsoft Azure Dashboard to begin creating a new Azure Storage Account.
 
-![Azure Dashboard](screenshot/01-the-azure-dashboard.png)
+![Azure Dashboard](screenshots/01-the-azure-dashboard.png)
 
 ---
 
@@ -75,7 +75,7 @@ Opened the Microsoft Azure Dashboard to begin creating a new Azure Storage Accou
 
 Opened the Azure Storage Accounts page to prepare for creating a new storage account.
 
-![Storage Accounts Page](screenshot/02-storage-account-page.png)
+![Storage Accounts Page](screenshots/02-storage-account-page.png)
 
 ---
 
@@ -83,7 +83,7 @@ Opened the Azure Storage Accounts page to prepare for creating a new storage acc
 
 Configured the Storage Account basics including subscription, resource group, region, performance, and redundancy.
 
-![Create Storage Account](screenshot/03-create-storage-account-basics.png)
+![Create Storage Account](screenshots/03-create-storage-account-basics.png)
 
 ---
 
@@ -91,7 +91,7 @@ Configured the Storage Account basics including subscription, resource group, re
 
 Reviewed the Storage Account configuration before deployment.
 
-![Review and Create](screenshot/04-storage-account-review-and-create.png)
+![Review and Create](screenshots/04-storage-account-review-and-create.png)
 
 ---
 
@@ -99,7 +99,7 @@ Reviewed the Storage Account configuration before deployment.
 
 Successfully deployed the Azure Storage Account.
 
-![Deployment Complete](screenshot/05-azure-storage-account-deployment-complete.png)
+![Deployment Complete](screenshots/05-azure-storage-account-deployment-complete.png)
 
 ---
 

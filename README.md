@@ -91,7 +91,7 @@ Configured the Storage Account basics including subscription, resource group, re
 
 Reviewed the Storage Account configuration before deployment.
 
-![Review and Create](screenshots/04-storage-account-review-and-create.png)
+![Review and Create](screenshots/04-storage-account-review-create.png)
 
 ---
 

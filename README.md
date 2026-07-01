@@ -32,11 +32,42 @@ This project demonstrates how to create and deploy an Azure Storage Account usin
 
 ## Screenshots
 
+## Overview
+
+This project demonstrates how to create and deploy an Azure Storage Account using the Microsoft Azure Portal. It covers configuring storage settings, validating deployment, and verifying the resource after creation.
+
+## Objectives
+
+- Create an Azure Storage Account
+- Configure storage settings
+- Deploy cloud resources
+- Verify successful deployment
+- Review the Storage Account Overview
+
+## Technologies Used
+
+- Microsoft Azure
+- Azure Portal
+- Azure Storage Account
+- Azure Resource Groups
+
+## Skills Demonstrated
+
+- Cloud Administration
+- Azure Resource Management
+- Storage Account Configuration
+- Resource Deployment
+- Azure Portal Navigation
+- Help Desk Fundamentals
+- Documentation
+
+## Screenshots
+
 ### 1. Azure Dashboard
 
 Opened the Microsoft Azure Dashboard to begin creating a new Azure Storage Account.
 
-![Azure Dashboard](screenshots/01-azure-dashboard.png)
+![Azure Dashboard](screenshot/01-azure-dashboard.png)
 
 ---
 
@@ -44,7 +75,7 @@ Opened the Microsoft Azure Dashboard to begin creating a new Azure Storage Accou
 
 Opened the Azure Storage Accounts page to prepare for creating a new storage account.
 
-![Storage Accounts Page](screenshots/02-storage-accounts-page.png)
+![Storage Accounts Page](screenshot/02-storage-accounts-page.png)
 
 ---
 
@@ -52,7 +83,7 @@ Opened the Azure Storage Accounts page to prepare for creating a new storage acc
 
 Configured the Storage Account basics including subscription, resource group, region, performance, and redundancy.
 
-![Create Storage Account](screenshots/03-create-storage-account-basics.png)
+![Create Storage Account](screenshot/03-create-storage-account-basics.png)
 
 ---
 
@@ -60,7 +91,7 @@ Configured the Storage Account basics including subscription, resource group, re
 
 Reviewed the Storage Account configuration before deployment.
 
-![Review and Create](screenshots/04-storage-account-review-create.png)
+![Review and Create](screenshot/04-storage-account-review-create.png)
 
 ---
 
@@ -68,7 +99,7 @@ Reviewed the Storage Account configuration before deployment.
 
 Successfully deployed the Azure Storage Account.
 
-![Deployment Complete](screenshots/05-storage-account-deployment-complete.png)
+![Deployment Complete](screenshot/05-storage-account-deployment-complete.png)
 
 ---
 
@@ -76,7 +107,7 @@ Successfully deployed the Azure Storage Account.
 
 Verified the deployed Storage Account from the Overview page.
 
-![Storage Account Overview](screenshots/06-storage-account-overview.png)
+![Storage Account Overview](screenshot/06-storage-account-overview.png)
 
 ---
 
@@ -91,3 +122,19 @@ Verified the deployed Storage Account from the Overview page.
 ## Author
 
 **Darwin Brown**
+
+---
+
+## Key Takeaways
+
+- Created an Azure Storage Account
+- Configured cloud storage settings
+- Deployed Azure resources successfully
+- Verified deployment status
+- Practiced Azure cloud administration using the Azure Portal
+
+## Author
+
+**Darwin BrownJR**
+
+Aspiring Help-Desk
